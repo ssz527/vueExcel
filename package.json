@@ -13,7 +13,9 @@
   "dependencies": {
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
-    "xlsx": "^0.12.12"
+    "xlsx": "^0.12.12",
+    "hdmap": "git+http://gitlab/xiaxuanyin/UI-mapcomponent.git#buildv3",
+    "axios": "^0.18.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
